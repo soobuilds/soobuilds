@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ebdfff&height=180&section=header&text=hi%2C%20i'm%20soonhan%20✿&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=it%20graduate%20·%20creative%20mind%20·%20perpetual%20learner&descColor=7c3aed&descAlignY=58&descSize=14" width="100%"/>
-</div>
+<img src="./banner.svg" width="100%"/>
 
 <!-- floating objects -->
 <div align="center">
