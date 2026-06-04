@@ -1,6 +1,10 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ebdfff&height=180&section=header&text=hi%2C%20i'm%20soonhan%20✿&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=it%20graduate%20·%20creative%20mind%20·%20perpetual%20learner&descColor=7c3aed&descAlignY=58&descSize=14" width="100%"/>
+  <sub>✧ ･ﾟ * ✨ ･ﾟ * ✧ ･ﾟ * ✨ ･ﾟ * ✧ ･ﾟ * ✨ ･ﾟ * ✧ ･ﾟ * ✨ ･ﾟ * ✧</sub>
+  <br />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ebdfff&height=180&section=header&text=hi%2C%20i'm%20soonhan%20✿&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=it%20graduate%20·%20creative%20mind%20·%20perpetual%20learner&descColor=7c3aed&descAlignY=58&descSize=14" width="100%"/>
+  <br />
+  <sub>✧ ･ﾟ * ✨ ･ﾟ * ✧ ･ﾟ * ✨ ･ﾟ * ✧ ･ﾟ * ✨ ･ﾟ * ✧ ･ﾟ * ✨ ･ﾟ * ✧</sub>
+</div>
 
 <!-- floating objects -->
 ![](https://img.shields.io/badge/🌸-pink?style=flat&labelColor=f3e8ff&color=f3e8ff)
@@ -84,9 +88,10 @@ things i do when i'm not coding:
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=soobuilds&show_icons=true&hide_border=true&bg_color=f3e8ff&title_color=7c3aed&icon_color=a855f7&text_color=6b21a8)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soobuilds&layout=compact&hide_border=true&bg_color=ede9fe&title_color=7c3aed&text_color=6b21a8)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=soobuilds&show_icons=true&hide_border=true&bg_color=f3e8ff&title_color=7c3aed&icon_color=a855f7&text_color=6b21a8" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soobuilds&layout=compact&hide_border=true&bg_color=ede9fe&title_color=7c3aed&text_color=6b21a8" alt="Top Langs" />
+</p>
 
 </div>
 
