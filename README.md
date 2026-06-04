@@ -1,14 +1,6 @@
 <img src="./banner.svg" width="100%"/>
 
-<!-- floating objects -->
-<div align="center">
-  <img src="https://img.shields.io/badge/🌸--pink?style=flat&labelColor=0d1117&color=0d1117" alt="pink"/>
-  <img src="https://img.shields.io/badge/🧶--yarn?style=flat&labelColor=0d1117&color=0d1117" alt="yarn"/>
-  <img src="https://img.shields.io/badge/🌿--plant?style=flat&labelColor=0d1117&color=0d1117" alt="plant"/>
-  <img src="https://img.shields.io/badge/✨--sparkle?style=flat&labelColor=0d1117&color=0d1117" alt="sparkle"/>
-  <img src="https://img.shields.io/badge/📷--camera?style=flat&labelColor=0d1117&color=0d1117" alt="camera"/>
-  <img src="https://img.shields.io/badge/🌙--moon?style=flat&labelColor=0d1117&color=0d1117" alt="moon"/>
-</div>
+
 
 <br/>
 
