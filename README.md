@@ -1,6 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=19,20,21&height=180&section=header&text=hi%2C%20i'm%20soonhan%20✿&fontSize=42&fontColor=f5e6d3&fontAlignY=38&desc=it%20graduate%20·%20creative%20mind%20·%20perpetual%20learner&descColor=d4b8a0&descAlignY=58&descSize=14" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,13,14&height=180&section=header&text=hi%2C%20i'm%20soonhan%20✿&fontSize=42&fontColor=f3eaff&fontAlignY=38&desc=it%20graduate%20·%20creative%20mind%20·%20perpetual%20learner&descColor=d8b4fe&descAlignY=58&descSize=14" width="100%"/>
+
+<!-- floating objects -->
+![](https://img.shields.io/badge/🌸-pink?style=flat&labelColor=f3e8ff&color=f3e8ff)
+![](https://img.shields.io/badge/🧶-yarn?style=flat&labelColor=ede9fe&color=ede9fe)
+![](https://img.shields.io/badge/🌿-plant?style=flat&labelColor=f0fdf4&color=f0fdf4)
+![](https://img.shields.io/badge/✨-sparkle?style=flat&labelColor=fdf4ff&color=fdf4ff)
+![](https://img.shields.io/badge/📷-camera?style=flat&labelColor=f5f3ff&color=f5f3ff)
+![](https://img.shields.io/badge/🌙-moon?style=flat&labelColor=ede9fe&color=ede9fe)
 
 </div>
 
@@ -9,7 +17,7 @@
 <div align="center">
 
 ```
- ✿ crafting code & crocheting on the side ✿
+   ✿ crafting code & crocheting on the side ✿
 ```
 
 </div>
@@ -26,7 +34,7 @@ based_in:   Pakistan 🇵🇰
 education:  BSc Information Technology · QUEST Nawabshah
 ```
 
-I'm a curious builder who sits at the intersection of **technology and creativity**. I like making things that are both functional *and* beautiful — whether that's a web app, a crochet pattern, or a well-tended plant. 🌿
+I'm a curious builder who sits at the intersection of **technology and creativity**. I like making things that are both functional *and* beautiful, whether that's a web app, a crochet pattern, or a well-tended plant. 🌿
 
 ---
 
@@ -36,7 +44,6 @@ I'm a curious builder who sits at the intersection of **technology and creativit
 |---|---|---|
 | 🔍 **Brand Audit Tool** | AI-powered brand health checker for startups | React · Claude API |
 | 📱 **Freelancer Tracker** | Time tracking & invoice generator MVP | React Native · Expo |
-| 🏙️ **ASCLS** | Arduino smart city lighting system (thesis) | Arduino · ESP8266 · IoT |
 
 ---
 
@@ -44,13 +51,13 @@ I'm a curious builder who sits at the intersection of **technology and creativit
 
 <div align="center">
 
-![React](https://img.shields.io/badge/React-fadadd?style=for-the-badge&logo=react&logoColor=c96a8a)
-![React Native](https://img.shields.io/badge/React_Native-f5e6d3?style=for-the-badge&logo=react&logoColor=c96a8a)
-![Python](https://img.shields.io/badge/Python-e8f5e9?style=for-the-badge&logo=python&logoColor=5a8a6a)
-![Arduino](https://img.shields.io/badge/Arduino-e3f2fd?style=for-the-badge&logo=arduino&logoColor=4a7a9a)
-![Figma](https://img.shields.io/badge/Figma-fce4ec?style=for-the-badge&logo=figma&logoColor=c96a8a)
-![Canva](https://img.shields.io/badge/Canva-f3e5f5?style=for-the-badge&logo=canva&logoColor=8a6a9a)
-![GitHub](https://img.shields.io/badge/GitHub-f5f5f5?style=for-the-badge&logo=github&logoColor=333)
+![React](https://img.shields.io/badge/React-f3e8ff?style=for-the-badge&logo=react&logoColor=7c3aed)
+![React Native](https://img.shields.io/badge/React_Native-ede9fe?style=for-the-badge&logo=react&logoColor=7c3aed)
+![Python](https://img.shields.io/badge/Python-f5f3ff?style=for-the-badge&logo=python&logoColor=6d28d9)
+![Arduino](https://img.shields.io/badge/Arduino-faf5ff?style=for-the-badge&logo=arduino&logoColor=7c3aed)
+![Figma](https://img.shields.io/badge/Figma-ede9fe?style=for-the-badge&logo=figma&logoColor=7c3aed)
+![Canva](https://img.shields.io/badge/Canva-f3e8ff?style=for-the-badge&logo=canva&logoColor=6d28d9)
+![GitHub](https://img.shields.io/badge/GitHub-faf5ff?style=for-the-badge&logo=github&logoColor=5b21b6)
 
 </div>
 
@@ -66,9 +73,22 @@ things i do when i'm not coding:
   🧘  yoga & journaling to stay grounded
   📷  photography — finding beauty in ordinary things
   🎨  painting whatever feeling needs an exit
+  🌸  pressing flowers & drinking too much chai
 ```
 
-> *"I build things slowly, carefully, and with intention — like crochet, but make it code."*
+> *"I build things slowly, carefully, and with intention, like crochet, but make it code."*
+
+---
+
+### 📊 github stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&theme=tokyonight&show_icons=true&hide_border=true&bg_color=f3e8ff&title_color=7c3aed&icon_color=a855f7&text_color=6b21a8)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&hide_border=true&bg_color=ede9fe&title_color=7c3aed&text_color=6b21a8)
+
+</div>
 
 ---
 
@@ -76,9 +96,9 @@ things i do when i'm not coding:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-fadadd?style=for-the-badge&logo=linkedin&logoColor=c96a8a)](https://www.linkedin.com/in/soonhan-ayaz-soomro-63b155254/)
-[![Email](https://img.shields.io/badge/Email-f5e6d3?style=for-the-badge&logo=gmail&logoColor=c96a8a)](mailto:soonhansoomro5@gmail.com)
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-e8f5e9?style=for-the-badge&logo=researchgate&logoColor=5a8a6a)](https://www.researchgate.net/profile/Soonhan-Soomro)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-f3e8ff?style=for-the-badge&logo=linkedin&logoColor=7c3aed)](https://www.linkedin.com/in/soonhan-ayaz-soomro-63b155254/)
+[![Email](https://img.shields.io/badge/Email-ede9fe?style=for-the-badge&logo=gmail&logoColor=7c3aed)](mailto:soonhansoomro5@gmail.com)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-f5f3ff?style=for-the-badge&logo=researchgate&logoColor=6d28d9)](https://www.researchgate.net/profile/Soonhan-Soomro)
 
 </div>
 
@@ -86,6 +106,6 @@ things i do when i'm not coding:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=19,20,21&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,13,14&height=100&section=footer" width="100%"/>
 
 </div>
