@@ -1,19 +1,15 @@
 <div align="center">
-  <sub>✧ ･ﾟ * ✨ ･ﾟ * ✧ ･ﾟ * ✨ ･ﾟ * ✧ ･ﾟ * ✨ ･ﾟ * ✧ ･ﾟ * ✨ ･ﾟ * ✧</sub>
-  <br />
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ebdfff&height=180&section=header&text=hi%2C%20i'm%20soonhan%20✿&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=it%20graduate%20·%20creative%20mind%20·%20perpetual%20learner&descColor=7c3aed&descAlignY=58&descSize=14" width="100%"/>
-  <br />
-  <sub>✧ ･ﾟ * ✨ ･ﾟ * ✧ ･ﾟ * ✨ ･ﾟ * ✧ ･ﾟ * ✨ ･ﾟ * ✧ ･ﾟ * ✨ ･ﾟ * ✧</sub>
 </div>
 
 <!-- floating objects -->
-![](https://img.shields.io/badge/🌸-pink?style=flat&labelColor=f3e8ff&color=f3e8ff)
-![](https://img.shields.io/badge/🧶-yarn?style=flat&labelColor=ede9fe&color=ede9fe)
-![](https://img.shields.io/badge/🌿-plant?style=flat&labelColor=f0fdf4&color=f0fdf4)
-![](https://img.shields.io/badge/✨-sparkle?style=flat&labelColor=fdf4ff&color=fdf4ff)
-![](https://img.shields.io/badge/📷-camera?style=flat&labelColor=f5f3ff&color=f5f3ff)
-![](https://img.shields.io/badge/🌙-moon?style=flat&labelColor=ede9fe&color=ede9fe)
-
+<div align="center">
+  <img src="https://img.shields.io/badge/🌸--pink?style=flat&labelColor=0d1117&color=0d1117" alt="pink"/>
+  <img src="https://img.shields.io/badge/🧶--yarn?style=flat&labelColor=0d1117&color=0d1117" alt="yarn"/>
+  <img src="https://img.shields.io/badge/🌿--plant?style=flat&labelColor=0d1117&color=0d1117" alt="plant"/>
+  <img src="https://img.shields.io/badge/✨--sparkle?style=flat&labelColor=0d1117&color=0d1117" alt="sparkle"/>
+  <img src="https://img.shields.io/badge/📷--camera?style=flat&labelColor=0d1117&color=0d1117" alt="camera"/>
+  <img src="https://img.shields.io/badge/🌙--moon?style=flat&labelColor=0d1117&color=0d1117" alt="moon"/>
 </div>
 
 <br/>
@@ -84,18 +80,6 @@ things i do when i'm not coding:
 
 ---
 
-### 📊 github stats
-
-<div align="center">
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=soobuilds&show_icons=true&hide_border=true&bg_color=f3e8ff&title_color=7c3aed&icon_color=a855f7&text_color=6b21a8" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soobuilds&layout=compact&hide_border=true&bg_color=ede9fe&title_color=7c3aed&text_color=6b21a8" alt="Top Langs" />
-</p>
-
-</div>
-
----
 
 ### 🌸 let's connect
 
