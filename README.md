@@ -30,7 +30,7 @@ I'm a curious builder who sits at the intersection of **technology and creativit
 
 ### 🌿 what i'm working on
 
-learning REACT atm.
+working through REACT atm.
 
 ---
 
