@@ -30,10 +30,7 @@ I'm a curious builder who sits at the intersection of **technology and creativit
 
 ### 🌿 what i'm working on
 
-| project | what it does | stack |
-|---|---|---|
-| 🔍 **Brand Audit Tool** | AI-powered brand health checker for startups | React · Claude API |
-| 📱 **Freelancer Tracker** | Time tracking & invoice generator MVP | React Native · Expo |
+learning REACT atm.
 
 ---
 
